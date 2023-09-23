@@ -2,6 +2,8 @@
   
 
 ### <div align="center">[Python Developer | Futurist | Innovator](#)</div>  
+
+### <div align="center">Building a better future, one line of code at a time.</div>
   
 
 - 🔭 I’m currently working as a Python Developer at [Tezeract](https://tezeract.io/)  
