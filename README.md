@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact: I use tabs over spaces
 
-- 📫 How to reach me **leenakamran270@gmail.com**
+- 📫 How to reach me **leenakamran27@gmail.com**
   
 
 <br/>  
@@ -52,33 +52,18 @@
 
 ## Connect
 <div align="center">
-<a href="https://github.com/kleeena" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/leena-kamran-a9557b222" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leena-kamran-a9557b222/)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leenakamran27@gmail.com)
   
 
 <br/>  
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleeena&hide_border=true&layout=compact" align="center" /></div>
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kleeena&show_icons=true&count_private=true&hide_border=true" align="left" />
-
-</td></tr></table>  
-
-<br/>  
+<a href="https://github.com/kleeena">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=kleeena&show_icons=true&theme=vue-dark" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleeena&theme=vue-dark&layout=compact" />
+</a>
 
 
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
