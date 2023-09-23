@@ -13,7 +13,9 @@
 - ❓ Ask me about anything related to Python  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I use tabs over spaces
+
+- 📫 How to reach me **leenakamran270@gmail.com**
   
 
 <br/>  
