@@ -1,7 +1,7 @@
-# <div align="center">Hi, I'm Leena 👋</div>  
+# <div align="center">[Hi, I'm Leena 👋](#)</div>  
   
 
-### <div align="center">Python Developer | Futurist | Innovator</div>  
+### <div align="center">[Python Developer | Futurist | Innovator](#)</div>  
   
 
 - 🔭 I’m currently working as a Python Developer at [Tezeract](https://tezeract.io/)  
