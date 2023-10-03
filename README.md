@@ -5,8 +5,7 @@
 
 ### <div align="center">Building a better future, one line of code at a time.</div>
   
-
-- 🔭 I’m currently working as a Python Developer at [Tezeract](https://tezeract.io/)  
+  
   
 
 - 🌱 I’m currently learning LangChain  
